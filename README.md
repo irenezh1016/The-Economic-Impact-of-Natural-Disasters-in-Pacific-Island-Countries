@@ -21,6 +21,9 @@ The major indicators at focus are: real GDP growth, imports, exports, trade open
 
 Based on EM-DAT data, here are some stylized effects:
 
+![Picture6](https://user-images.githubusercontent.com/12699202/56503486-8e580e00-64e3-11e9-8674-98cffd3080e4.jpg)
+![Picture5](https://user-images.githubusercontent.com/12699202/56503485-8e580e00-64e3-11e9-8350-b5599d558195.jpg)
+![Picture4](https://user-images.githubusercontent.com/12699202/56503484-8e580e00-64e3-11e9-9557-b9561bc0417e.jpg)
 
 ### 2) Disaster Intensity Measure
 
