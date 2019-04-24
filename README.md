@@ -43,7 +43,7 @@ To investigate the impact of natural disasters on growth and trade, we set up th
 below by adopting a similar specification as Dell et al. (2012), Felbermayr and Gröschl
 (2014) and Loayza et al. (2012).
 
-<img width="221" alt="Capture" src="https://user-images.githubusercontent.com/12699202/56688300-5947e900-66a6-11e9-8ac8-55bc50335f32.PNG">
+<img width="401" alt="Capture" src="https://user-images.githubusercontent.com/12699202/56688300-5947e900-66a6-11e9-8ac8-55bc50335f32.PNG">
 
 where yit is log(GDP) (or log(GDP per capita), trade balance/GDP, trade balance/GDP);
 NDit is natural disaster dummy variable that takes 1 if damage-to-GDP is above 75th
