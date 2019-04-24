@@ -21,7 +21,7 @@ The major indicators at focus are: real GDP growth, imports, exports, trade open
 
 Based on EM-DAT data, here are some stylized effects:
 
- Natural disastes in the Pacific, by country and type| chart 2
+ Natural Disasters in the Pacific, by country and type| Natural Disaster Occurence 
  -------------------------:|:-------------------------:
 <img src = "https://user-images.githubusercontent.com/12699202/56503486-8e580e00-64e3-11e9-8674-98cffd3080e4.jpg"  width="450"> | <img src = "https://user-images.githubusercontent.com/12699202/56503485-8e580e00-64e3-11e9-8350-b5599d558195.jpg"  width= "450">
 
