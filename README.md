@@ -26,6 +26,10 @@ Based on EM-DAT data, here are some stylized effects:
 ![Picture4](https://user-images.githubusercontent.com/12699202/56503484-8e580e00-64e3-11e9-9557-b9561bc0417e.jpg)
 
 ### 2) Disaster Intensity Measure
+In the literature, the general assumption has been that disasters which affect more of the population also have a bigger economic impact. In line with this general assumption, the previous literature analyzing the growth impact of natural disasters constructed a measure of natural disaster intensity using information only on population affected with larger weights on death than affected (Fomby et al, 2013; IMF, 2003; Becker and Mauro, 2006).
+
+However, in the Pacific Island countries, because of the geographical dispersion, disasters that have the most intensity or impact the most population may not cause the biggest economic damage. Different types of natural disasters influence the country’s economy and population differently. Historical data show that droughts affect more people than other types of disasters, but storms cause the most economic damage. 
+
 
 
 ## Part 2: Empirical Model
