@@ -25,7 +25,6 @@ Based on EM-DAT data, here are some stylized effects:
  -------------------------:|:-------------------------:
 <img src = "https://user-images.githubusercontent.com/12699202/56503486-8e580e00-64e3-11e9-8674-98cffd3080e4.jpg"  width="450"> | <img src = "https://user-images.githubusercontent.com/12699202/56503485-8e580e00-64e3-11e9-8350-b5599d558195.jpg"  width= "450">
 
-<img src = "https://user-images.githubusercontent.com/12699202/56503484-8e580e00-64e3-11e9-9557-b9561bc0417e.jpg"  width ="450">
 
 ### 2) Disaster Intensity Measure
 In the literature, the general assumption has been that disasters which affect more of the population also have a bigger economic impact. In line with this general assumption, the previous literature analyzing the growth impact of natural disasters constructed a measure of natural disaster intensity using information only on population affected with larger weights on death than affected (Fomby et al, 2013; IMF, 2003; Becker and Mauro, 2006).
