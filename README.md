@@ -1,4 +1,7 @@
 # The Economic Impact of Natural Disasters in Pacific Island Countries
+
+[publication link]:(https://www.imf.org/en/Publications/WP/Issues/2018/05/10/The-Economic-Impact-of-Natural-Disasters-in-Pacific-Island-Countries-Adaptation-and-45826)
+
 Pacific island countries are highly vulnerable to various natural disasters which are destructive, unpredictable and occur frequently. The frequency and scale of these shocks heightens the importance of medium-term economic and fiscal planning to minimize the adverse impact of disasters on economic development. This paper identifies the intensity of natural disasters for each country in the Pacific based on the distribution of damage and population affected by disasters, and estimates the impact of disasters on economic growth and international trade using a panel regression. The results show that “severe” disasters have a significant and negative impact on economic growth and lead to a deterioration of the fiscal and trade balance. We also find that the negative impact on growth is stronger for more intense disasters. Going further this paper proposes a simple and consistent method to adjust IMF staff’s economic projections and debt sustainability analysis for disaster shocks for the Pacific islands. Better incorporating the economic impact of natural disasters in the medium- and long-term economic planning would help policy makers improve fiscal policy decisions and to be better adapted and prepared for natural disasters.
 
 **_The following sections explain the data, empirical models, and results used in this paper._**
@@ -39,19 +42,17 @@ Based on the table above, droughts tend to have the most impact on population, b
 
 ## Part 2: Empirical Model
 
-To investigate the impact of natural disasters on growth and trade, we set up the estimation as
-below by adopting a similar specification as Dell et al. (2012), Felbermayr and Gröschl
-(2014) and Loayza et al. (2012).
+To investigate the impact of natural disasters on growth and trade, we set up the estimation as below by adopting a similar specification as Dell et al. (2012), Felbermayr and Gröschl (2014) and Loayza et al. (2012).
 
 <img width="401" alt="Capture" src="https://user-images.githubusercontent.com/12699202/56688300-5947e900-66a6-11e9-8ac8-55bc50335f32.PNG">
 
-where yit is log(GDP) (or log(GDP per capita), trade balance/GDP, trade balance/GDP);
-NDit is natural disaster dummy variable that takes 1 if damage-to-GDP is above 75th
-percentile, or affected people-to-total population is above 75th percentile for the case that
-damage data is not available;12 Xit includes various control variables such as population,
-inflation, trade openness, and terms of trade growth of Australia and the U.S. interacted with
-the trade share with these two countries to capture global trade activity closely related to the
-Pacific islands.13 FEi is a country fixed effect, included to take account of country-specific
-heterogeneity; and FEt is a year-specific fixed effect, included to consider global
-macroeconomic shocks. The subscripts i and t denote country and year, respectively.
+where yit is log(GDP) (or log(GDP per capita), trade balance/GDP, trade balance/GDP); NDit is natural disaster dummy variable that takes 1 if damage-to-GDP is above 75th percentile, or affected people-to-total population is above 75th percentile for the case that damage data is not available;12 Xit includes various control variables such as population, inflation, trade openness, and terms of trade growth of Australia and the U.S. interacted with the trade share with these two countries to capture global trade activity closely related to the Pacific islands.13 FEi is a country fixed effect, included to take account of country-specific heterogeneity; and FEt is a year-specific fixed effect, included to consider global macroeconomic shocks. The subscripts i and t denote country and year, respectively.
+
+## Part 3: Results
+
+The results from the fixed effects model are presented in the left four columns of Table 4. We find that the adverse growth effect of severe natural disasters is statistically significant in most specifications.
+
+
+
+
 
