@@ -21,7 +21,9 @@ The major indicators at focus are: real GDP growth, imports, exports, trade open
 
 Based on EM-DAT data, here are some stylized effects:
 
-<img src = "https://user-images.githubusercontent.com/12699202/56503486-8e580e00-64e3-11e9-8674-98cffd3080e4.jpg"  width="450"> <img src = "https://user-images.githubusercontent.com/12699202/56503485-8e580e00-64e3-11e9-8350-b5599d558195.jpg"  width= "450">
+  chart 1                  |  chart 2
+:-------------------------:|:-------------------------:
+<img src = "https://user-images.githubusercontent.com/12699202/56503486-8e580e00-64e3-11e9-8674-98cffd3080e4.jpg"  width="450"> |  <img src = "https://user-images.githubusercontent.com/12699202/56503485-8e580e00-64e3-11e9-8350-b5599d558195.jpg"  width= "450">
 
 <img src = "https://user-images.githubusercontent.com/12699202/56503484-8e580e00-64e3-11e9-9557-b9561bc0417e.jpg"  width ="450">
 
