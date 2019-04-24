@@ -35,11 +35,21 @@ Average damage per disaster, by type
 
 <img src = "https://user-images.githubusercontent.com/12699202/56671806-41ab3900-6683-11e9-90a8-b14627570254.jpg" width = "500">
 
-
+Based on the table above, droughts tend to have the most impact on population, but when measuring the damage in US dollars, storms have the most damage. To reconcile the effects of population and dollar damage, the natual disaster intensity is constructed based on both population affected and estimaged damage percentile ranks. 
 
 ## Part 2: Empirical Model
 
+To investigate the impact of natural disasters on growth and trade, we set up the estimation as
+below by adopting a similar specification as Dell et al. (2012), Felbermayr and Gröschl
+(2014) and Loayza et al. (2012).
 
-
-
+where yit is log(GDP) (or log(GDP per capita), trade balance/GDP, trade balance/GDP);
+NDit is natural disaster dummy variable that takes 1 if damage-to-GDP is above 75th
+percentile, or affected people-to-total population is above 75th percentile for the case that
+damage data is not available;12 Xit includes various control variables such as population,
+inflation, trade openness, and terms of trade growth of Australia and the U.S. interacted with
+the trade share with these two countries to capture global trade activity closely related to the
+Pacific islands.13 FEi is a country fixed effect, included to take account of country-specific
+heterogeneity; and FEt is a year-specific fixed effect, included to consider global
+macroeconomic shocks. The subscripts i and t denote country and year, respectively.
 
