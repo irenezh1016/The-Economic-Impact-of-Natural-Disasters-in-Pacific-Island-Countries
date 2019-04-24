@@ -21,7 +21,6 @@ The major indicators at focus are: real GDP growth, imports, exports, trade open
 
 Based on EM-DAT data, here are some stylized effects:
 
-  chart 1                  |  chart 2
 :-------------------------:|:-------------------------:
 <img src = "https://user-images.githubusercontent.com/12699202/56503486-8e580e00-64e3-11e9-8674-98cffd3080e4.jpg"  width="450"> |  <img src = "https://user-images.githubusercontent.com/12699202/56503485-8e580e00-64e3-11e9-8350-b5599d558195.jpg"  width= "450">
 
@@ -32,7 +31,7 @@ In the literature, the general assumption has been that disasters which affect m
 
 However, in the Pacific Island countries, because of the geographical dispersion, disasters that have the most intensity or impact the most population may not cause the biggest economic damage. Different types of natural disasters influence the country’s economy and population differently. Historical data show that droughts affect more people than other types of disasters, but storms cause the most economic damage. 
 
-![table1](https://user-images.githubusercontent.com/12699202/56671806-41ab3900-6683-11e9-90a8-b14627570254.jpg)
+<img src = "https://user-images.githubusercontent.com/12699202/56671806-41ab3900-6683-11e9-90a8-b14627570254.jpg" width = "500")
 
 
 
