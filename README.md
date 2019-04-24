@@ -31,6 +31,7 @@ In the literature, the general assumption has been that disasters which affect m
 
 However, in the Pacific Island countries, because of the geographical dispersion, disasters that have the most intensity or impact the most population may not cause the biggest economic damage. Different types of natural disasters influence the country’s economy and population differently. Historical data show that droughts affect more people than other types of disasters, but storms cause the most economic damage. 
 
+Average damage per disaster, by type
 <img src = "https://user-images.githubusercontent.com/12699202/56671806-41ab3900-6683-11e9-90a8-b14627570254.jpg" width = "500">
 
 
